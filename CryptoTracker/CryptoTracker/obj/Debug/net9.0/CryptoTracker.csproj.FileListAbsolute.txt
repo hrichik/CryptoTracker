@@ -1,0 +1,14 @@
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\CryptoTracker.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\CryptoTracker.AssemblyInfoInputs.cache
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\CryptoTracker.AssemblyInfo.cs
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\CryptoTracker.csproj.CoreCompileInputs.cache
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\bin\Debug\net9.0\CryptoTracker.exe
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\bin\Debug\net9.0\CryptoTracker.deps.json
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\bin\Debug\net9.0\CryptoTracker.runtimeconfig.json
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\bin\Debug\net9.0\CryptoTracker.dll
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\bin\Debug\net9.0\CryptoTracker.pdb
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\CryptoTracker.dll
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\refint\CryptoTracker.dll
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\CryptoTracker.pdb
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\CryptoTracker.genruntimeconfig.cache
+c:\Users\hrich\Documents\CryptoTracker\CryptoTracker\obj\Debug\net9.0\ref\CryptoTracker.dll
